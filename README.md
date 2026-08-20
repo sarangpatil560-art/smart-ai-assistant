@@ -21,4 +21,4 @@ A simple Python calculator that allows users to perform basic arithmetic operati
 Run the following command in your terminal:
 
 ```bash
-python calculator.py
+python agent.py
