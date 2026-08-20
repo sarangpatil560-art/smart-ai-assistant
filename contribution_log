@@ -1,0 +1,22 @@
+
+### `CONTRIBUTION_LOG.md`
+
+```markdown
+# Contribution Log
+
+## Project: Python Calculator
+
+| Date | Contributor | Contribution |
+|------|-------------|--------------|
+| 2026-08-20 | Project Author | Created the basic Python calculator |
+| 2026-08-20 | Project Author | Added addition, subtraction, multiplication, and division |
+| 2026-08-20 | Project Author | Added user-choice functionality |
+| 2026-08-20 | Project Author | Added division-by-zero handling |
+| 2026-08-20 | Project Author | Added invalid-choice handling |
+| 2026-08-20 | Project Author | Created project documentation |
+
+## Summary
+
+The project was created to practice basic Python programming concepts,
+including user input, arithmetic operators, conditional statements,
+and simple error handling.
